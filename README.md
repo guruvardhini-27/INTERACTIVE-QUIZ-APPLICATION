@@ -54,3 +54,6 @@ Open index.html in your browser
 
 Start answering the quiz!
 
+#OUTPUT :
+![Image](https://github.com/user-attachments/assets/7d99e3ac-8786-4c16-a03f-e83e2adb5bd8)
+
